@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Nexus Workspace</string>
+    <string name="welcome_title">Welcome back</string>
+    <string name="welcome_subtitle">Sign in to your workspace to continue</string>
+    <string name="email_label">Work email address</string>
+    <string name="email_hint">name@company.com</string>
+    <string name="btn_sso">Continue with SSO</string>
+    <string name="btn_google">Continue with Google</string>
+    <string name="btn_microsoft">Continue with Microsoft</string>
+    <string name="divider_or">or continue with</string>
+    <string name="footer_terms">By continuing, you agree to our Terms of Service and Privacy Policy</string>
+
+    <string name="error_empty_email">Please enter your email address to continue</string>
+    <string name="error_invalid_email">Please enter a valid email address</string>
+
+    <string name="toast_google">Google SSO selected — this would redirect to Google\'s sign-in page</string>
+    <string name="toast_microsoft">Microsoft SSO selected — this would redirect to Microsoft Entra ID</string>
+
+    <string name="success_title">You\'re signed in</string>
+    <string name="success_subtitle">Authentication successful</string>
+    <string name="signed_in_as">Signed in as</string>
+    <string name="btn_sign_out">Sign Out</string>
+</resources>
